@@ -6,7 +6,7 @@ This is a simple news application built with the AlanAI API. Users can use voice
 for the front end and Alan AI as well as news api.org to fetch the news.
 
 # Demo:
-![DemoGIF](https://s7.gifyu.com/images/voiceaiiiiisdfsdf.gif)
+![DemoGIF](https://s7.gifyu.com/images/voiceaiiiiisdfsdfsgsdfkljgddf.gif)
 
 
 [Live Preview](https://ethanvoiceai.herokuapp.com/)
